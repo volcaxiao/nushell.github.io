@@ -16,7 +16,7 @@ Nerdfonts 并不是必需的，但它们能使呈现效果更好。
 
 如果你喜欢 [oh-my-posh](https://ohmyposh.dev/)，可以通过以下几个步骤在 Nushell 里使用 oh-my-posh，它与 Nushell 一起配合得很好。在 Nushell 里设置 oh-my-posh 的步骤：
 
-1. 安装 Oh My Posh 并按照 [指南](https://ohmyposh.dev/docs/linux#installation)下载 oh-my-posh 的主题。
+1. 安装 Oh My Posh 并按照 [指南](https://ohmyposh.dev/docs/installation/linux)下载 oh-my-posh 的主题。
 2. 下载并安装一个 [Nerdfonts 字体](https://github.com/ryanoasis/nerd-fonts)。
 3. 在`~/.config/nushell/config.nu`（或由`$nu.config-path`输出的路径）中设置`PROMPT_COMMAND`，将`M365Princess.mp.json`改为你喜欢的任何 [主题](https://ohmyposh.dev/docs/themes)。
 
